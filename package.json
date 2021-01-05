@@ -1,0 +1,25 @@
+{
+  "name": "bad-ui",
+  "version": "1.0.0",
+  "description": "Intentionally making bad UI for fun",
+  "engines": {
+    "node": "14.15.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iv-T/bad-ui.git"
+  },
+  "author": "Ivan Tam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iv-T/bad-ui/issues"
+  },
+  "homepage": "https://github.com/Iv-T/bad-ui#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
